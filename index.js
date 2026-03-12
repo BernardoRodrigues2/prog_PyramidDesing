@@ -25,7 +25,7 @@ console.log(`O valor do calculo da Área da base da Piramide é de: ${areaB.toFi
 console.log(`O valor do calculo da Área da lateral da Piramide é de: ${areaL.toFixed(3)} m²`)
 console.log(`O valor do calculo do Apotema da Base é de: ${apotemaB.toFixed(3)} m²`)
 console.log(`O valor do calculo do Apotema da Piramide é de: ${apotemaP.toFixed(3)} m²`)
-console.log(`O valor do calculo do Volume é de: ${volume.toFixed(3)} m2`)
+console.log(`O valor do calculo do Volume é de: ${volume.toFixed(3)} m²`)
 console.log('===========================================================================')
 console.log('')
 
